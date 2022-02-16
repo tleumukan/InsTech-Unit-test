@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hnse653BtVmkGxkNR6gZY9VJNIG/NfWueEoG49FImtl3YBofl88BgZ4hh3zSfFNwPWW7J8lFh9gWrXXnq+Jo4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tileu_Mukan\\Downloads\\MortgageCalculator-main\\MortgageCalculator-main\\MortgageCalculator.API\\MortgageCalculator.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.7\\swashbuckle.aspnetcore.6.0.7.nupkg.sha512",
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.7\\swashbuckle.aspnetcore.swagger.6.0.7.nupkg.sha512",
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.7\\swashbuckle.aspnetcore.swaggergen.6.0.7.nupkg.sha512",
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.7\\swashbuckle.aspnetcore.swaggerui.6.0.7.nupkg.sha512",
+    "C:\\Users\\Tileu_Mukan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
