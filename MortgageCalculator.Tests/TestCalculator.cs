@@ -34,6 +34,8 @@ namespace MortgageCalculator.Tests
             var Calculator = new CalculatorController();
             var data = new CalculatorDTO(1000000, 10, 20, 5, PaymentSchedule.Accelerated);
             const double ans = 7831.57;
+            var delta;
+            const int delta1 = 1;
 
             //Act
             var result = Calculator.GetPaymentPerPaymentSchedule(data);
