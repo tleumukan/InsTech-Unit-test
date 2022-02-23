@@ -9,6 +9,11 @@ using Microsoft.Extensions.Logging;
 
 namespace MortgageCalculator.API
 {
+    public void Test()
+    {
+        
+    }
+
     public class Program
     {
         public static void Main(string[] args)
