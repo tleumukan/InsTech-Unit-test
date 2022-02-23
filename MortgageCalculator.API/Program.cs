@@ -9,11 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace MortgageCalculator.API
 {
-    public void Test()
-    {
-        
-    }
-
+  
     public class Program
     {
         public static void Main(string[] args)
@@ -22,7 +18,7 @@ namespace MortgageCalculator.API
         }
         public static void test()
         {
-            
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
