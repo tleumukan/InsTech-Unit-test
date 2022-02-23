@@ -20,6 +20,10 @@ namespace MortgageCalculator.API
         {
             CreateHostBuilder(args).Build().Run();
         }
+        public static void test()
+        {
+            
+        }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
